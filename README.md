@@ -33,7 +33,7 @@
 
 # 📖 Jet-Log-BackEnd <a name="about-project"></a>
 
-**Jet-Log-BackEnd** is a backend api used by [jet-log-frontend](https://github.com/tkz96/jet-log-frontend) to enable the user see available planes, reserve a plane and see the reservations. The admin can also add or delete a plane from the database
+**Jet-Log-BackEnd** is a backend api used by [jet-log-frontend](https://github.com/sharon-odhiambo/jet-log-frontend) to enable the user see available planes, reserve a plane and see the reservations. The admin can also add or delete a plane from the database
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,9 +74,9 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-- Clone the back-end repository by writing `https://github.com/tkz96/jet-log-frontend`
-- Clone the front-end repository by writing `https://github.com/tkz96/jet-log-frontend.git`
-- This is the link to the [Jetlog FrontEnd](https://github.com/tkz96/jet-log-frontend.git)
+- Clone the back-end repository by writing `https://github.com/sharon-odhiambo/jet-log-frontend`
+- Clone the front-end repository by writing `https://github.com/sharon-odhiambo/jet-log-frontend.git`
+- This is the link to the [Jetlog FrontEnd](https://github.com/sharon-odhiambo/jet-log-frontend.git)
 - Run `bundle install` to install the project's dependencies
 - Add your database username and password and write `rails db:create` to create the database
 - Run  `rails db:migrate` to migrate the tables to the created database
@@ -127,7 +127,7 @@ rspec <relative path to the test file>
 
 ### Deployment
 
-- The project has been delpoyed at [https://jet-log.herokuapp.com](https://jet-log.herokuapp.com)
+- The project has been delpoyed at [jet-log-herokuapp](https://jet-log.herokuapp.com)
 
 ### Kanban
 - This is the link to the [Kanban Board](https://github.com/users/tkz96/projects/2/views/3)
@@ -188,7 +188,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please give it a ⭐ at [jetlog-backend](https://github.com/tkz96/jet-log-backend) and [jetlog-frontend](https://github.com/tkz96/jet-log-frontend)
+If you like this project, please give it a ⭐ at [jetlog-backend](https://github.com/sharon-odhiambo/jet-log-backend) and [jetlog-frontend](https://github.com/sharon-odhiambo/jet-log-frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
